@@ -8,3 +8,4 @@ Creating a new branch is quick and simple.
 merge.
 This line has been added but not been committed.
 This line hasn't been added.
+This line is edited in branch dev.
