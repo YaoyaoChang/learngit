@@ -3,4 +3,5 @@ Git is a free software.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Git is very interesting.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD this a sign of cyy
+Creating a new branch is quick and simple.
