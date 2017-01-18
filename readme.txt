@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git is very interesting.
 <<<<<<< HEAD this a sign of cyy
 Creating a new branch is quick and simple.
+merge.
